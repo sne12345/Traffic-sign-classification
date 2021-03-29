@@ -1,7 +1,7 @@
 # 로딩이 안될 때,     
-.py 파일을 열거나 clone해서 확인 부탁드립니다 !
+.py 파일을 열거나 clone해서 확인 부탁드립니다.
 
-
+<br />
 
 ### Traffic-sign-classification.ipynb
 데이터 전처리 및 모델별 학습(VGGNet, ResNet)
