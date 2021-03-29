@@ -3,6 +3,8 @@
 
 <br />
 
+# 파일 설명   
+
 ### Traffic-sign-classification.ipynb
 데이터 전처리 및 모델별 학습(VGGNet, ResNet)
 
