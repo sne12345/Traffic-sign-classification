@@ -1,3 +1,8 @@
+# 로딩이 안될 때,     
+.py 파일을 열어서 확인 부탁드립니다 !
+
+
+
 # Traffic-sign-classification.ipynb
 데이터 전처리 및 모델별 학습(VGGNet, ResNet)
 
